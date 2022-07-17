@@ -956,6 +956,7 @@
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
 "@rails/actioncable@^6.0.0":
+
   version "6.1.6"
   resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-6.1.6.tgz#ed0e926112fd476c3ac3c52bd18d39d84624cd62"
   integrity sha512-gD8zYT8u8AA4wulIW7BN4x6tPSR1Ldt7jXDs3ntBKdgtvqiohBJFEKn8YJSDr7vrCpM/hYuEJxYl/4oJvvENfA==
@@ -964,10 +965,12 @@
   version "6.1.6"
   resolved "https://registry.yarnpkg.com/@rails/activestorage/-/activestorage-6.1.6.tgz#d4ffd5327af8e85dee9f9a4867a7cd64d644e26f"
   integrity sha512-0ajoVtZK5fNbHqAzKWZR+ocDwnd+D36gG9om3CphSL2QevB7e1YIVZo5UFPbB+3KD0kj8KuW6VaaOOT98Qm5bA==
+
   dependencies:
     spark-md5 "^3.0.0"
 
 "@rails/ujs@^6.0.0":
+
   version "6.1.6"
   resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.6.tgz#de486ae0a663e1bed637a012cbb2739bfcfa2031"
   integrity sha512-2M4zlthYmOC6X/tcPcFd//sIL26a7JbCpGNl8uIrQf+pR1Z47uhYt9cOwVqJTJZPurdy2k+YY3Pn64pqruAPEA==
@@ -1912,9 +1915,11 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001359:
+
   version "1.0.30001366"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001366.tgz#c73352c83830a9eaf2dea0ff71fb4b9a4bbaa89c"
   integrity sha512-yy7XLWCubDobokgzudpkKux8e0UOOnLHE6mlNJBzT3lZJz6s5atSEzjoL+fsCPkI0G8MP5uVdDx1ur/fXEWkZA==
+
 
 case-sensitive-paths-webpack-plugin@^2.2.0:
   version "2.4.0"
@@ -2759,6 +2764,7 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.172:
+
   version "1.4.187"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.187.tgz#b884493df00816dc2ce928958c4f6a51a93fe1a8"
   integrity sha512-t3iFLHVIMhB8jGZ+8ui951nz6Bna5qKfhxezG3wzXdBJ79qFKPsE2chjjVFNqC1ewhfrPQrw9pmVeo4FFpZeQA==
